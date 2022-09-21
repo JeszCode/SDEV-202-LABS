@@ -6,7 +6,7 @@
 #Testing the loop condtions
 while True:
 
-	student_last_name = input ("Enter your last name: ")    #Prompt user to enter Last name
+	student_last_name = input ("Enter your last name (enter zzz to quit): ")    #Prompt user to enter Last name
 
 	student_first_name = input ("Enter your first name: " ) #Prompt user to enter First name
 
